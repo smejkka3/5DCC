@@ -16,3 +16,15 @@ h1,h2{
 img{
   width: 100%;
 }
+
+footer{
+  margin-top: 70px;
+  background-color: Orange;
+  color: White;
+}
+
+footer p{
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
