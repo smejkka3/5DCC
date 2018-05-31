@@ -1,0 +1,18 @@
+body{
+  font-family: Arial;
+  color: SlateGray;
+}
+
+h1{
+  font-size: 300%;
+}
+
+h1,h2{
+  color: Orange;
+  font-weight: 100;
+  text-transform: uppercase;
+}
+
+img{
+  width: 100%;
+}
